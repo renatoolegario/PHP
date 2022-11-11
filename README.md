@@ -14,3 +14,6 @@ Lê arquivo no formato XLSX , utilizando por exemplo subir arquivos em massa par
 
 # Exportar dados em Arquivos XLSX (Excel)
 Possibilita o usuário a fazer o download de uma base de dados em formato XLSX ou CSV
+
+# CONSULTA AJAX (Jquery) 
+Faz a consulta no banco de dados sem atualizar a pagina.
